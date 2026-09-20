@@ -1,0 +1,1 @@
+This lab introduces commonly used Cisco IOS Command Line Interface commands. Commands are practiced for accessing the device, entering configuration modes, configuring interfaces, checking device status, viewing the running configuration, and saving the configuration.

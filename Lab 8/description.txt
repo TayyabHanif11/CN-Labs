@@ -1,0 +1,1 @@
+This lab demonstrates how a switch learns MAC addresses from network traffic. The MAC address table is checked before communication, PCs communicate using ping, the table is checked again to observe dynamically learned MAC addresses, and the dynamic entries are then cleared.

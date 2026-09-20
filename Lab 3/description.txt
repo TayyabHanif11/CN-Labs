@@ -1,0 +1,1 @@
+This lab introduces Ethernet cable construction and testing. The purpose is to understand Ethernet cable wiring, connector arrangements, and the process of checking whether a constructed cable is working correctly.

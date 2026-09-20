@@ -1,0 +1,1 @@
+This lab focuses on testing network connectivity and gathering network information using command-line tools. Commands such as ipconfig, ping, tracert, arp -a, and netstat are used to examine IP configuration, connectivity, routing paths, ARP information, and active network connections.

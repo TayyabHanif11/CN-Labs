@@ -1,0 +1,1 @@
+This lab focuses on creating a basic computer network topology in Cisco Packet Tracer. Network devices and end devices are connected, IP addresses are configured, and basic connectivity is established between the devices.
